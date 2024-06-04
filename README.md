@@ -28,7 +28,9 @@ Here are some ideas to get you started:
 
 ###
 
-<img src="https://raw.githubusercontent.com/yusufdemirkilic/yusufdemirkilic/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img height="200" src="https://github.com/YusufDemirkilic/YusufDemirkilic/blob/main/yusuf%20kapak%20foto.jpg"  />
+</div>
 
 ###
 
